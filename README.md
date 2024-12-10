@@ -59,7 +59,7 @@ The goal of this project is to develop a deep learning model that can automatica
   Reference Links:
     For a comprehensive step-by-step guide, including dataset exploration and code execution, please refer to the complete walkthrough video available on YouTube.
 
-**Youtube vedio**: [YouTube Video Explanation Link](https://www.youtube.com/playlist?list=PL6O21IOHvBmfnPYmHJRWiovggjKClTI_w)
+**Youtube vedio**: [Video Explanation Link](https://drive.google.com/drive/folders/1warvQNp_BYuAs6c0UiWd3dBc6IAD0PPp?usp=sharing)
 
 **Medium Article :**: [Medium Article Link](https://medium.com/@subhashr161347/classifying-dogs-and-cats-using-a-convolutional-neural-network-cnn-e58718ebf2e8)
 
